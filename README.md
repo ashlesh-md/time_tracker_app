@@ -7,7 +7,7 @@ A Flutter application that provides a Kanban board for task management, allowing
 
 ## Demo Video
 
-[Watch the video](https://drive.google.com/file/d/1NVU-9KFMjtku9GjIEsAS_ZdvMW2nd6q5/view)
+[Watch the video](https://drive.google.com/file/d/17UARPAsJQrWy4SoGhc9_HGKiDepmUHZ1/view)
 
 ## Features
 

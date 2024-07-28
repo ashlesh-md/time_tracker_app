@@ -7,7 +7,7 @@ A Flutter application that provides a Kanban board for task management, allowing
 
 ## Demo Video
 
-[![Watch the video]()](https://drive.google.com/file/d/1NVU-9KFMjtku9GjIEsAS_ZdvMW2nd6q5/view)
+[Watch the video](https://drive.google.com/file/d/1NVU-9KFMjtku9GjIEsAS_ZdvMW2nd6q5/view)
 
 ## Features
 
@@ -79,20 +79,19 @@ A Flutter application that provides a Kanban board for task management, allowing
  - View History: Navigate to the 'Completed Tasks' section to see a list of all completed tasks, along with the time spent and completion date.
  - Comments on Tasks
  - Add Comment: Tap on a task and navigate to the comments section to add a comment.
- - View Comments: View all comments associated with a task in the comments section and also able to delete the same.
+ - View Comments: View all comments associated with a task in the comments section.
+ - Delete Comments: Able to Delete All the Comments
 
 ### APK Size
  - Android Build APK Size: 7.1 MB
 
-
 ## Screenshots
-<img src="" width="480">
-<img src="" width="480">
-<img src="" width="480">
-<img src="" width="480">
-<img src="" width="480">
-<img src="" width="480">
-<img src="" width="480">
-<img src="" width="480">
-<img src="" width="480">
-<img src="" width="480">
+<img src="https://github.com/user-attachments/assets/b2f63c6d-cbd4-4e1a-895f-8812c72498e9" width="480">
+<img src="https://github.com/user-attachments/assets/3e25baf8-ebe1-45a1-8e93-a5cb09c145ce" width="480">
+<img src="https://github.com/user-attachments/assets/b0b70236-c7e2-4b2b-b52d-214e841ccd8c" width="480">
+<img src="https://github.com/user-attachments/assets/3bc11c3d-58b5-4d97-90de-6d3b56650a0f" width="480">
+<img src="https://github.com/user-attachments/assets/0e9d0790-a626-4152-b62d-8ec45fc7c0ef" width="480">
+<img src="https://github.com/user-attachments/assets/532d81fd-6d43-49e6-bdd6-ce845d0bff50" width="480">
+<img src="https://github.com/user-attachments/assets/6ed24dbc-4715-4222-b3fe-c0928bc63f69)" width="480">
+<img src="https://github.com/user-attachments/assets/fb46722e-160a-4999-a487-f295bee0f3b5" width="480">
+<img src="https://github.com/user-attachments/assets/af5e9d6a-426d-4ad9-96d9-25a9a5a0b7e4" width="480">
